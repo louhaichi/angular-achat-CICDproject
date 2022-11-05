@@ -6,4 +6,4 @@
     password: Ahmed40023559
 
 - name: Push the Docker image into the repo
-  shell: docker push magnum3016/cdproject
+  shell: docker push magnum3016/cdproject:latest
